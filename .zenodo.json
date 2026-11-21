@@ -1,0 +1,39 @@
+{
+  "title": "Evaluating Cellular-Composition Effects and Incremental Predictive Value in Periodontitis Transcriptomic Gene Signatures",
+  "upload_type": "software",
+  "description": "Single-cell cellular-composition baselines (150-gene GSE152042 and 360-gene GSE164241 marker catalogs), Affymetrix GPL570 CEL-level overlap and scan-date audit tables (GSE10334 vs. GSE16134), fixed-identity matched random-panel gene lists, benchmarking and plotting scripts, and complete numerical outputs accompanying the manuscript.",
+  "creators": [
+    {
+      "name": "Kang, Qiao",
+      "affiliation": "Department of Oral and Maxillofacial Surgery, I.M. Sechenov First Moscow State Medical University (Sechenov University), Moscow, Russian Federation",
+      "orcid": "0009-0000-6475-2568"
+    },
+    {
+      "name": "Chen, Long",
+      "affiliation": "Department of Pediatric, Preventive Dentistry and Orthodontics, E.V. Borovsky Institute of Dentistry, I.M. Sechenov First Moscow State Medical University (Sechenov University), Moscow, Russian Federation",
+      "orcid": "0009-0009-3898-3747"
+    },
+    {
+      "name": "Ma, Zihan",
+      "affiliation": "Department of Pediatric, Preventive Dentistry and Orthodontics, E.V. Borovsky Institute of Dentistry, I.M. Sechenov First Moscow State Medical University (Sechenov University), Moscow, Russian Federation",
+      "orcid": "0009-0007-0587-1138"
+    },
+    {
+      "name": "Liu, Mingyu",
+      "affiliation": "Department of Dental Surgery, E.V. Borovsky Institute of Dentistry, I.M. Sechenov First Moscow State Medical University (Sechenov University), Moscow, Russian Federation",
+      "orcid": "0009-0008-6226-0234"
+    }
+  ],
+  "keywords": [
+    "periodontitis",
+    "transcriptomics",
+    "cellular composition",
+    "single-cell RNA-seq",
+    "gene signatures",
+    "machine learning",
+    "benchmarking",
+    "reproducibility"
+  ],
+  "license": "MIT",
+  "access_right": "open"
+}
