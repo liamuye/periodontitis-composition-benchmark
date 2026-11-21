@@ -1,0 +1,5 @@
+criterion,baseline,explicit_positive,potential_positive,unevaluable,count_total,denominator,threshold,result,detail,observed_median_dauc,joint_ci_lo,joint_ci_hi
+Criterion 1: 1D composition axis baseline (<= 3/15 positive or boundary-uncertain),1D composition axis,1.0,0.0,0.0,1.0,15.0,<= 3/15,Met,Positive (1) + boundary-uncertain (0) + unevaluable (0) = 1/15 (<= 3/15),,,
+Criterion 2: 5D composition baseline (<= 3/15 positive or boundary-uncertain),5D composition,1.0,0.0,0.0,1.0,15.0,<= 3/15,Met,Positive (1) + boundary-uncertain (0) + unevaluable (0) = 1/15 (<= 3/15),,,
+Criterion 3: Cross-panel shared axis baseline (<= 3/15 positive or boundary-uncertain),Cross-panel shared axis,1.0,0.0,0.0,1.0,15.0,<= 3/15,Met,Positive (1) + boundary-uncertain (0) + unevaluable (0) = 1/15 (<= 3/15),,,
+Criterion 4: 1D composition axis median ΔAUC and joint 95% CI upper bound <= 0.02,1D composition axis,,,,,,median <= 0.02 and joint 95% CI upper <= 0.02,Met,"Observed 15-panel median ΔAUC = 0.004639; joint selection-aware 95% CI [-0.003978, 0.015650] (<= 0.02)",0.0046394289933546,-0.0039784175317029,0.0156496555013071

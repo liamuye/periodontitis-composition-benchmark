@@ -1,0 +1,9 @@
+numpy==2.0.2
+scipy==1.13.1
+pandas==2.3.3
+scikit-learn==1.6.1
+scanpy==1.10.3
+anndata==0.10.9
+harmonypy==2.1.0
+matplotlib>=3.9
+pillow>=10.0

@@ -1,0 +1,85 @@
+cohort,panel_id,scope,pathway,pmid,n_genes,n_used,missing,auc,r_axis,dir_source,complete_published
+GSE223924,1,exploration,Lactylation,41310117,3,3,,0.98,0.9358084041414307,published,True
+GSE223924,2,exploration,Cuproptosis,37215133,11,11,,0.51,0.2884738678046667,published,True
+GSE223924,3,exploration,Endoplasmic reticulum stress,36072904,3,3,,0.99,0.9662856888958489,published,True
+GSE223924,4,exploration,Cellular senescence (aging-related),36389665,4,4,,0.89,0.8142654951630663,published,True
+GSE223924,5,exploration,Immune response,39917706,7,7,,1.0,0.9114239557666094,published,True
+GSE223924,6,exploration,Immune and inflammatory response,37085805,9,9,,0.97,0.944580929306646,t,False
+GSE223924,7,exploration,Ferritinophagy,40233623,5,5,,1.0,0.902572845581154,published,True
+GSE223924,8,exploration,PANoptosis,40612110,6,6,,0.96,0.9777909081644645,published,True
+GSE223924,9,exploration,Neutrophil extracellular traps (NETs),40770330,7,7,,0.96,0.9528536766774721,t,False
+GSE223924,10,exploration,Lipid metabolism,40819095,5,5,,0.98,0.9367743868544707,published,True
+GSE223924,11,exploration,Glutathione metabolism,41053677,3,3,,1.0,0.8368534624287853,published,True
+GSE223924,12,exploration,Mitochondrial metabolism,42288013,6,6,,0.98,0.9468941995699004,published,True
+GSE223924,13,exploration,Mitochondrial genes,42793201,5,5,,0.91,0.7994919358680816,published,True
+GSE223924,14,exploration,Mitochondrial-derived vesicles (MitoEVs),38308306,9,9,,0.99,0.9077040510303954,t,False
+GSE223924,15,exploration,Fibroblast and stromal markers,41588193,6,6,,0.94,0.9562448507916885,t,False
+GSE223924,16,exploration,Ferroptosis and aging (ferro-aging),42923149,4,4,,0.97,0.886937338241188,published,True
+GSE223924,17,exploration,Ferroptosis,35901060,9,9,,1.0,0.8651224966093548,t,False
+GSE223924,18,exploration,Ferroptosis,38802844,4,4,,0.99,0.9441761603166825,t,False
+GSE223924,19,exploration,Disulfidptosis and ferroptosis,39045324,6,6,,1.0,0.8746624918095499,published,True
+GSE223924,20,exploration,Endoplasmic reticulum autophagy (ER-phagy),40619516,4,4,,0.9,0.6597948599791992,published+t,False
+GSE223924,21,exploration,Exosome-related genes,39762852,5,5,,0.97,0.8371126113947911,published,True
+GSE223924,22,exploration,Neuroendocrine-related genes,42634206,5,5,,0.94,0.9530346481373974,published,True
+GSE223924,23,exploration,Stress granules,41576727,4,4,,0.94,0.9267244617924795,t,False
+GSE223924,24,exploration,Cellular senescence,42627218,6,6,,0.96,0.9693076211648316,published,True
+GSE223924,25,exploration,Necroptosis,41088263,6,6,,0.94,0.939412308537482,published,True
+GSE223924,26,exploration,Multi-omics machine learning,42615493,10,10,,0.97,0.9518101802770411,t,False
+GSE223924,27,exploration,Pyroptosis,35990678,4,4,,0.96,0.9576411922030867,t,False
+GSE223924,101,confirmation,Immune-related biomarkers,39717623,3,3,,0.99,0.9190811710965665,t,False
+GSE223924,102,confirmation,Machine-learning transcriptomic diagnosis,41265166,5,5,,1.0,0.9161802502221518,t,False
+GSE223924,103,confirmation,Extracellular matrix stiffness,42644235,4,4,,1.0,0.965532461458353,published,True
+GSE223924,104,confirmation,γδ T cell-endothelial immune-metabolic crosstalk,41876560,6,6,,0.97,0.934444719823898,t,False
+GSE223924,105,confirmation,Shared inflammatory genes (periodontitis and sJIA),42776962,6,6,,0.96,0.9734154119559275,t,False
+GSE223924,106,confirmation,Shared immune genes (periodontitis and infective endocarditis),41358004,4,4,,0.96,0.8620382257887069,published,True
+GSE223924,107,confirmation,Oxidative stress,40539067,3,3,,1.0,0.8804100496988618,t,False
+GSE223924,108,confirmation,Shared complement/innate immune genes (periodontitis and MS),38218802,3,3,,0.98,0.8992090403661671,t,False
+GSE223924,109,confirmation,Shared genes (periodontitis and type 1 diabetes),37051594,6,6,,0.96,0.9749125435487066,t,False
+GSE223924,110,confirmation,Shared genes (periodontitis and type 2 diabetes),35145474,4,4,,0.92,0.9410601244819033,published,True
+GSE223924,111,confirmation,Fatty acid metabolism,39610070,8,8,,0.97,0.9040329973450669,t,False
+GSE223924,112,confirmation,Integrated stress response (ISR),41459503,5,5,,0.84,0.7812420042578179,published,True
+GSE223924,113,confirmation,Mitochondrial dysfunction,39741754,5,5,,0.94,0.8654588611249601,published+t,False
+GSE223924,114,confirmation,Mitophagy,40859550,4,4,,0.94,0.8969262821496009,published,True
+GSE223924,115,confirmation,Shared immune genes (SLE and periodontitis),40309038,11,11,,0.94,0.9581970636779167,t,False
+GSE173078,1,exploration,Lactylation,41310117,3,3,,0.6319444444444444,0.8534651596440361,published,True
+GSE173078,2,exploration,Cuproptosis,37215133,11,11,,0.3541666666666667,0.1883988355644268,published,True
+GSE173078,3,exploration,Endoplasmic reticulum stress,36072904,3,3,,0.7361111111111112,0.9508747362386408,published,True
+GSE173078,4,exploration,Cellular senescence (aging-related),36389665,4,4,,0.4791666666666667,0.8155733842548502,published,True
+GSE173078,5,exploration,Immune response,39917706,7,6,IGHD,0.6388888888888888,0.8136760791875598,published,True
+GSE173078,6,exploration,Immune and inflammatory response,37085805,9,9,,0.7013888888888888,0.9286102377946388,t,False
+GSE173078,7,exploration,Ferritinophagy,40233623,5,5,,0.6597222222222222,0.8036338786798992,published,True
+GSE173078,8,exploration,PANoptosis,40612110,6,6,,0.6666666666666666,0.9674418479253629,published,True
+GSE173078,9,exploration,Neutrophil extracellular traps (NETs),40770330,7,7,,0.6527777777777778,0.9384781811776698,t,False
+GSE173078,10,exploration,Lipid metabolism,40819095,5,5,,0.6527777777777778,0.896179879035266,published,True
+GSE173078,11,exploration,Glutathione metabolism,41053677,3,3,,0.6527777777777778,0.855531528207447,published,True
+GSE173078,12,exploration,Mitochondrial metabolism,42288013,6,6,,0.7083333333333334,0.9109540840283115,published,True
+GSE173078,13,exploration,Mitochondrial genes,42793201,5,5,,0.7569444444444444,0.877485106812361,published,True
+GSE173078,14,exploration,Mitochondrial-derived vesicles (MitoEVs),38308306,9,9,,0.8055555555555556,0.7423758581718057,t,False
+GSE173078,15,exploration,Fibroblast and stromal markers,41588193,6,5,IGHG1,0.75,0.9529598479519799,t,False
+GSE173078,16,exploration,Ferroptosis and aging (ferro-aging),42923149,4,4,,0.7013888888888888,0.8513698773414897,published,True
+GSE173078,17,exploration,Ferroptosis,35901060,9,8,EMC2,0.75,0.8160933795558025,t,False
+GSE173078,18,exploration,Ferroptosis,38802844,4,2,SLC2A14;LURAP1L,0.7152777777777778,0.8780493504806887,t,False
+GSE173078,19,exploration,Disulfidptosis and ferroptosis,39045324,6,5,LURAP1L,0.7083333333333334,0.7503527292749146,published,True
+GSE173078,20,exploration,Endoplasmic reticulum autophagy (ER-phagy),40619516,4,4,,0.7430555555555556,0.7868524132396869,published+t,False
+GSE173078,21,exploration,Exosome-related genes,39762852,5,5,,0.7361111111111112,0.8928926699117855,published,True
+GSE173078,22,exploration,Neuroendocrine-related genes,42634206,5,5,,0.75,0.9378414286293538,published,True
+GSE173078,23,exploration,Stress granules,41576727,4,4,,0.6944444444444444,0.788396439621795,t,False
+GSE173078,24,exploration,Cellular senescence,42627218,6,6,,0.7013888888888888,0.9744764280628352,published,True
+GSE173078,25,exploration,Necroptosis,41088263,6,6,,0.7291666666666666,0.9422254749163237,published,True
+GSE173078,26,exploration,Multi-omics machine learning,42615493,10,10,,0.7361111111111112,0.9141674567215982,t,False
+GSE173078,27,exploration,Pyroptosis,35990678,4,4,,0.6736111111111112,0.9190555828807963,t,False
+GSE173078,101,confirmation,Immune-related biomarkers,39717623,3,3,,0.7847222222222222,0.6734729632246762,t,False
+GSE173078,102,confirmation,Machine-learning transcriptomic diagnosis,41265166,5,5,,0.7361111111111112,0.9004923390056849,t,False
+GSE173078,103,confirmation,Extracellular matrix stiffness,42644235,4,4,,0.6736111111111112,0.940476215502726,published,True
+GSE173078,104,confirmation,γδ T cell-endothelial immune-metabolic crosstalk,41876560,6,6,,0.6944444444444444,0.9589797397280787,t,False
+GSE173078,105,confirmation,Shared inflammatory genes (periodontitis and sJIA),42776962,6,6,,0.6944444444444444,0.9575398610582623,t,False
+GSE173078,106,confirmation,Shared immune genes (periodontitis and infective endocarditis),41358004,4,4,,0.7291666666666666,0.8613131588104348,published,True
+GSE173078,107,confirmation,Oxidative stress,40539067,3,3,,0.7291666666666666,0.6408331768322136,t,False
+GSE173078,108,confirmation,Shared complement/innate immune genes (periodontitis and MS),38218802,3,3,,0.7569444444444444,0.8577926975401016,t,False
+GSE173078,109,confirmation,Shared genes (periodontitis and type 1 diabetes),37051594,6,6,,0.7152777777777778,0.8336782155957587,t,False
+GSE173078,110,confirmation,Shared genes (periodontitis and type 2 diabetes),35145474,4,4,,0.7291666666666666,0.9261961252825788,published,True
+GSE173078,111,confirmation,Fatty acid metabolism,39610070,8,8,,0.6875,0.858835703019346,t,False
+GSE173078,112,confirmation,Integrated stress response (ISR),41459503,5,5,,0.7152777777777778,0.8750193609130802,published,True
+GSE173078,113,confirmation,Mitochondrial dysfunction,39741754,5,5,,0.7430555555555556,0.8037003682968434,published+t,False
+GSE173078,114,confirmation,Mitophagy,40859550,4,4,,0.8125,0.7497567147363458,published,True
+GSE173078,115,confirmation,Shared immune genes (SLE and periodontitis),40309038,11,10,FCGR1B,0.6944444444444444,0.9340867391226992,t,False

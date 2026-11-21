@@ -1,0 +1,43 @@
+panel_id	set	pmid	doi	first_author_year	pathway_en_short	pathway_en_full	family_en	k_mapped	panel_display_id
+1	exploration	41310117	10.1038/s41598-025-30213-z	Zhu et al. (2025)	Lactylation	Lactylation	Metabolic	3	1
+2	exploration	37215133	10.3389/fimmu.2023.1164667	Liu et al. (2023)	Cuproptosis	Cuproptosis	Programmed cell death	11	2
+3	exploration	36072904	10.1155/2022/8611755	Zhang et al. (2022)	ER stress	Endoplasmic reticulum stress	Senescence and stress	3	3
+4	exploration	36389665	10.3389/fimmu.2022.1042484	Peng et al. (2022)	Aging / senescence-1	Cellular senescence (aging-related)	Senescence and stress	4	4
+5	exploration	39917706	10.3389/fdmed.2024.1480346	Li et al. (2024)	Immune markers	Immune response	Immune and inflammatory	7	5
+6	exploration	37085805	10.1186/s12903-023-02925-z	Duan et al. (2023)	Immune/inflammation	Immune and inflammatory response	Immune and inflammatory	9	6
+7	exploration	40233623	10.1016/j.identj.2025.03.011	Li et al. (2025)	Ferritinophagy	Ferritinophagy	Programmed cell death	5	7
+8	exploration	40612110	10.3389/fcell.2025.1619002	Sun et al. (2025)	PANoptosis	PANoptosis	Programmed cell death	6	8
+9	exploration	40770330	10.1186/s12903-025-06663-2	Yu et al. (2025)	NETs	Neutrophil extracellular traps (NETs)	Immune and inflammatory	7	9
+10	exploration	40819095	10.1038/s41598-025-15330-z	Wei et al. (2025)	Lipid metabolism	Lipid metabolism	Metabolic	5	10
+11	exploration	41053677	10.1186/s12903-025-06858-7	Meng et al. (2025)	Glutathione metabolism	Glutathione metabolism	Metabolic	3	11
+12	exploration	42288013	10.1016/j.identj.2026.109682	Wu et al. (2026)	Mitochondrial metabolism	Mitochondrial metabolism	Mitochondrial	6	12
+13	exploration	42793201	10.3390/biom16091369	Wu et al. (2026)	Mitochondrial signature	Mitochondrial genes	Mitochondrial	5	13
+14	exploration	38308306	10.1186/s12903-024-03912-8	Yang et al. (2024)	MitoEVs	Mitochondrial-derived vesicles (MitoEVs)	Mitochondrial	9	14
+15	exploration	41588193	10.1038/s41598-026-37385-2	Huang et al. (2026)	Fibroblast/stroma	Fibroblast and stromal markers	Other	6	15
+16	exploration	42923149	10.3389/fcimb.2026.1875267	Chu et al. (2026)	Ferro-aging	Ferroptosis and aging (ferro-aging)	Programmed cell death	4	16
+17	exploration	35901060	10.1371/journal.pone.0271202	Zhang et al. (2022)	Ferroptosis-1	Ferroptosis	Programmed cell death	9	17
+18	exploration	38802844	10.1186/s12903-024-04342-2	Chen et al. (2024)	Ferroptosis-2	Ferroptosis	Programmed cell death	4	18
+19	exploration	39045324	10.3389/fgene.2024.1402663	Fu et al. (2024)	Disulfidptosis/ferroptosis	Disulfidptosis and ferroptosis	Programmed cell death	6	19
+20	exploration	40619516	10.1038/s41598-025-08180-2	Wang et al. (2025)	ER-phagy	Endoplasmic reticulum autophagy (ER-phagy)	Senescence and stress	4	20
+21	exploration	39762852	10.1186/s12903-024-05409-w	Baheti et al. (2025)	Exosomes	Exosome-related genes	Other	5	21
+22	exploration	42634206	10.1111/jcmm.71329	Zhang et al. (2026)	Neuroendocrine	Neuroendocrine-related genes	Other	5	22
+23	exploration	41576727	10.1016/j.identj.2025.109390	Wang et al. (2026)	Stress granules	Stress granules	Senescence and stress	4	23
+24	exploration	42627218	10.2340/aos.v85.46622	Xiao et al. (2026)	Cellular senescence-2	Cellular senescence	Senescence and stress	6	24
+25	exploration	41088263	10.1186/s12920-025-02241-1	Zhu et al. (2025)	Necroptosis	Necroptosis	Programmed cell death	6	25
+26	exploration	42615493	10.2340/aos.v85.46662	Nuermaimaiti et al. (2026)	Multi-omics ML	Multi-omics machine learning	Other	10	26
+27	exploration	35990678	10.3389/fimmu.2022.955441	Liu et al. (2022)	Pyroptosis	Pyroptosis	Programmed cell death	4	27
+101	confirmation	39717623	10.1155/mi/9983323	Li et al. (2024)	Immune biomarkers	Immune-related biomarkers	Immune and inflammatory	3	28
+102	confirmation	41265166	10.1016/j.identj.2025.104028	Cheng et al. (2026)	Transcriptomic ML	Machine-learning transcriptomic diagnosis	Other	5	29
+103	confirmation	42644235	10.1155/mi/2009746	Peng et al. (2026)	Matrix stiffness	Extracellular matrix stiffness	Other	4	30
+104	confirmation	41876560	10.1038/s41540-026-00690-7	Zhang et al. (2026)	Immune-metabolic crosstalk	γδ T cell-endothelial immune-metabolic crosstalk	Immune and inflammatory	6	31
+105	confirmation	42776962	10.1371/journal.pcbi.1014669	Deng et al. (2026)	PD-sJIA shared inflammation	Shared inflammatory genes (periodontitis and sJIA)	Immune and inflammatory	6	32
+106	confirmation	41358004	10.3389/fcell.2025.1725544	Mei et al. (2025)	PD-IE shared immune	Shared immune genes (periodontitis and infective endocarditis)	Immune and inflammatory	4	33
+107	confirmation	40539067	10.3389/fimmu.2025.1598642	Sun et al. (2025)	Oxidative stress	Oxidative stress	Senescence and stress	3	34
+108	confirmation	38218802	10.1186/s12903-023-03846-7	Wu et al. (2024)	PD-MS complement/innate immune	Shared complement/innate immune genes (periodontitis and MS)	Immune and inflammatory	3	35
+109	confirmation	37051594	10.3389/fgene.2023.1147819	Liu et al. (2023)	PD-T1D shared metabolic	Shared genes (periodontitis and type 1 diabetes)	Metabolic	6	36
+110	confirmation	35145474	10.3389/fendo.2021.724278	Kang et al. (2021)	PD-T2D shared metabolic	Shared genes (periodontitis and type 2 diabetes)	Metabolic	4	37
+111	confirmation	39610070	10.7518/hxkq.2024.2024214	Chen et al. (2024)	Fatty acid metabolism	Fatty acid metabolism	Metabolic	8	38
+112	confirmation	41459503	10.3389/fimmu.2025.1705047	Du et al. (2025)	Integrated stress response	Integrated stress response (ISR)	Senescence and stress	5	39
+113	confirmation	39741754	10.2147/JIR.S498739	Ma et al. (2024)	Mitochondrial dysfunction	Mitochondrial dysfunction	Mitochondrial	5	40
+114	confirmation	40859550	10.1097/MD.0000000000044002	Hu et al. (2025)	Mitophagy	Mitophagy	Mitochondrial	4	41
+115	confirmation	40309038	10.3389/fgene.2025.1527713	Zhao et al. (2025)	SLE-PD shared immune	Shared immune genes (SLE and periodontitis)	Immune and inflammatory	11	42
